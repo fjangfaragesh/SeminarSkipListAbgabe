@@ -1,7 +1,7 @@
 # SeminarSkip List Abgabe
 
-[Seminararbeit](.)  
-[Code](.)
+[Seminararbeit](seminararbeit.pdf)  
+[Code](src)
 
 
 Fabian Bär
