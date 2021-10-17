@@ -1,2 +1,7 @@
-# SeminarSkipListAbgabe
-Hier packe ich das zeug rein, irgendwann wird es wieder gelöscht. 
+# SeminarSkip List Abgabe
+
+[Seminararbeit](.)  
+[Code](.)
+
+
+Fabian Bär
